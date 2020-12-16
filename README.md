@@ -1,1 +1,2 @@
-"# TipTimeKotlin" 
+"# TipTimeKotlin"
+![Screenshot](screenshot.jpg)
